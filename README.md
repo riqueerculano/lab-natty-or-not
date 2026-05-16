@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🎴 Neon Arcana Cards — RPG Fantasy Cyberpunk
 
 ## 📒 Descrição
@@ -31,6 +29,28 @@ Legends of Runeterra
 Dark Fantasy RPGs
 
 
+🖼️ Galeria de Cards
+
+⚔️ Kairos — Guerreiro Arcano
+
+![Texto Alternativo](caminho/para/sua-imagem.png)
+
+
+🌑 Vayra — Lâmina do Abismo
+
+![Texto Alternativo](caminho/para/sua-imagem.png)
+
+
+🔮 Lyaara — Feiticeira Arcana
+
+![Texto Alternativo](caminho/para/sua-imagem.png)
+
+
+🏹 Lysara — Arqueira Sombria
+
+![Texto Alternativo](caminho/para/sua-imagem.png)
+
+
 Os cards possuem:
 
 interface holográfica
@@ -46,6 +66,7 @@ habilidades especiais
 sistema de raridade
 
 atmosfera cyberpunk sombria
+
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -149,5 +170,6 @@ atmosfera cinematográfica
 
 
 O processo também mostrou como IA pode acelerar concept art e desenvolvimento visual para projetos criativos, jogos e marcas geek/cyberpunk.
-```
+
+
 
