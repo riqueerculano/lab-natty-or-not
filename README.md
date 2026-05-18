@@ -33,22 +33,22 @@ Dark Fantasy RPGs
 
 ⚔️ Kairos — Guerreiro Arcano
 
-![Texto Alternativo](caminho/para/sua-imagem.png)
+![Kairos — Guerreiro Arcano](/src/images/file_00000000bbac720ebca5974e4edcb759.png)
 
 
 🌑 Vayra — Lâmina do Abismo
 
-![Texto Alternativo](caminho/para/sua-imagem.png)
+![Vayra — Lâmina do Abismo](/src/images/file_00000000e1c0720e9b126aea018ff472.png)
 
 
 🔮 Lyaara — Feiticeira Arcana
 
-![Texto Alternativo](caminho/para/sua-imagem.png)
+![Lyaara — Feiticeira Arcana](/src/images/file_000000001c0871f58893007feca6aaed.png)
 
 
 🏹 Lysara — Arqueira Sombria
 
-![Texto Alternativo](caminho/para/sua-imagem.png)
+![Lysara — Arqueira Sombria](/src/images/file_00000000d57871fbbe5f3b99a159d4fc.png)
 
 
 Os cards possuem:
